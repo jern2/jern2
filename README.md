@@ -166,14 +166,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jern2&bg_color=60,d2e9f4,e7eaee&title_color=112640&text_color=112640&show_icons=true&icon_color=112640" />
-</div>
-
-<br/>
-
 <div align="center">
   <sub>⭐ From someone who is always jiwon-ing (진행 중) ⭐</sub>
 </div>
